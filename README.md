@@ -4,7 +4,7 @@ Welcome to the Scentence E-Commerce Frontend repository. This README serves as a
 
 **This project is live and deployed! Access it [here](https://scentence.vercel.app/).**
 
-**The backend repository is [here](https://github.com/mostafaroshdy1/scentence-backend).**
+**The backend repository is [here](https://github.com/engyahmed7/scentence-backend).**
 
 ## Project Overview
 
